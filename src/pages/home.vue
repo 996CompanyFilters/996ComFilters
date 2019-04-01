@@ -75,8 +75,8 @@
                 more:false ,
                 results: [],
                 value: '',
-                blackCompany:'ji',
-                workingHours:'21'
+                blackCompany:'',
+                workingHours:''
             };
         }, 
         created() {},

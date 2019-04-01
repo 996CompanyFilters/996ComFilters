@@ -1,9 +1,9 @@
 [{
-    "name": "京东",
+    "name": "JD",
     "id": 1,
     "workingHours": "996"
 }, {
-    "name": "有赞",
+    "name": "YZ",
     "id": 2,
     "workingHours": "007"
 }]
