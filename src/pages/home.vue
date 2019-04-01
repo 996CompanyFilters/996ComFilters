@@ -42,7 +42,8 @@
 
     </group>
     
-    <div style="padding:15px;">
+    <div style="padding:15px;    margin-top: 36px;">
+       <div>可输入‘JD’，或者‘YZ’做测试使用。</div>
       <!-- <x-button class='clearBtn'
         @click.native="clearBtn"
         type="primary">添加996icu黑名单</x-button>  -->
